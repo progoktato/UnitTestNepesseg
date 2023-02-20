@@ -1,0 +1,16 @@
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\bin\Debug\net6.0\Nepesseg.exe
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\bin\Debug\net6.0\Adatok\kozerdeku_lakossag_2022.csv
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\bin\Debug\net6.0\Nepesseg.deps.json
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\bin\Debug\net6.0\Nepesseg.runtimeconfig.json
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\bin\Debug\net6.0\Nepesseg.dll
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\bin\Debug\net6.0\Nepesseg.pdb
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.csproj.AssemblyReference.cache
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.GeneratedMSBuildEditorConfig.editorconfig
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.AssemblyInfoInputs.cache
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.AssemblyInfo.cs
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.csproj.CoreCompileInputs.cache
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.dll
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\refint\Nepesseg.dll
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.pdb
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\Nepesseg.genruntimeconfig.cache
+H:\Saját meghajtó\GITHUB_CSHARP\UnitTest\Nepesseg\Nepesseg\obj\Debug\net6.0\ref\Nepesseg.dll
